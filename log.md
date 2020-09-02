@@ -38,3 +38,9 @@
 **Today's Progress**: 
 * Solved 6 questions related to Strings.
 * Made my first open-source project live.
+
+### Day 07: September 02, 2020
+
+**Today's Progress**:
+* Solved two question on Strings on hackerRank
+* Started learning Python
