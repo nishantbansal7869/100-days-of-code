@@ -44,3 +44,9 @@
 **Today's Progress**:
 * Solved two question on Strings on hackerRank
 * Started learning Python
+
+### Day 08: September 03, 2020
+
+**Today's Progress**:
+* Solved 3 strings problem from HackerRank
+* Started learning Python
